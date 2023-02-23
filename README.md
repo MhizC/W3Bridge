@@ -12,8 +12,8 @@ This is my first attempt of trying to replicate the [GRID SECTION on Frontend Me
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL:(https://your-live-site-url.com)
+- Solution URL: ()
+- Live Site URL:(http://127.0.0.1:5500/grid.html)
 
 ### Built with
 
