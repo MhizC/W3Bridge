@@ -12,8 +12,8 @@ This is my first attempt of trying to replicate the [GRID SECTION on Frontend Me
 
 ### Links
 
-- Solution URL: https://mhizc.github.io/w3b-Grid-Trial/
-- Live Site URL:http://127.0.0.1:5500/grid.html
+- https://mhizc.github.io/w3b-Grid-Trial/
+- http://127.0.0.1:5500/grid.html
 
 ### Built with
 
